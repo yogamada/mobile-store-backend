@@ -47,4 +47,3 @@ npm run build
 php artisan serve
 ```
 
-> Admin Panel tersedia di **http://localhost:8000/login**
